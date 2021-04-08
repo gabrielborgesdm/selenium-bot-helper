@@ -4,8 +4,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver import ActionChains
 import time
-import uuid
-
 
 class Selenium:
     driver = None
